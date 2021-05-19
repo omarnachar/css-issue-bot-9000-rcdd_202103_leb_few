@@ -20,9 +20,10 @@ h2 {
   font-size: 12px;
 }
 
-#tasks .completed
+#tasks.completed
   backgound: #ccc;
-#tasks .completed {
+#tasks.completed {
   background: #ccc;
   text-decoration: underline;
 }
+
